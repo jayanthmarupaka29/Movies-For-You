@@ -2,8 +2,7 @@
 
 A modern, responsive React application that allows users to search and explore movies using the OMDB API. Built with React and styled with Tailwind CSS, this application provides a sleek interface for discovering movies.
 
-![Movies For You Screenshot](![image](https://github.com/user-attachments/assets/4d06c52a-ff74-402d-86cb-a707da865e0d)
-)
+![image](https://github.com/user-attachments/assets/5941e555-dcd1-4a08-8f6d-f6c176fdd152)
 
 ## ✨ Features
 
